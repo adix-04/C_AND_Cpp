@@ -55,6 +55,6 @@ static void __exit myexit(void)
 module_init(myinit);
 module_exit(myexit);
 
-MODULE_AUTHOR("adin");
+MODULE_AUTHOR("adin,Dewin");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Char device module");
