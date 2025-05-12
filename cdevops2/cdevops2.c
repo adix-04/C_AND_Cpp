@@ -57,4 +57,4 @@ module_exit(myexit);
 
 MODULE_AUTHOR("adin");
 MODULE_LICENSE("GPL");
-MODULE_DESCRIPTION("Char device module");
+MODULE_DESCRIPTION("Char device module for linux kernal");
