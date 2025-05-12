@@ -1,8 +1,12 @@
 #include<stdio.h>
 #include<unistd.h>
 #include<fcntl.h>
-
+/*
+Author :adin 
+date : 12/5/2025
+*/
 int main(int argc , char *argv[]){
+    printf("testing function for cdev");
     if(argc < 2){
       printf("empty arguments \n");
       return 0;
